@@ -13,38 +13,42 @@ ClonerNews is a simple web application that fetches and displays stories from th
 
 1. **Clone the repository:**
    ```bash
-   git clone https://learn.zone01kisumu.ke/git/karodgers/hacker-news.git
+   git clone https://github.com/karodgers/hacker-news.git
 
 2.
+   ```bash
    Navigate to the project directory:
    cd hacker-news
+   ```
 3.
-Install Node.js (if not already installed):
-Follow the instructions to install Node.js on your system.
+   ```bash
+   Install Node.js (if not already installed):
+   Follow the instructions to install Node.js on your system.
+   ```
 
 
-Usage
+## Usage
 1.Run the application:
-download live server extenstion on vscode and run index.html on live server
+
+   ```
+   download live server extenstion on vscode and run index.html on live server
+   ```
 2. Open a web browser:
-Here you can navigate through the web page
+
+   ```
+   Here you can navigate through the web page on the port created by the live searver
+   ```
 
 
-Project Structure
-script.js: Main JavaScript file containing the logic for fetching and displaying posts and comments.
-index.html: HTML file for the application's user interface.
-styles.css: CSS file for styling the application.
-
-
-API
+## API
 This application uses the Hacker News API to fetch stories and comments.
 
-Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 Hacker News for providing the API.
 Node.js for the runtime environment.
